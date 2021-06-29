@@ -1,0 +1,13 @@
+.todo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.todo-list-container {
+  display: grid;
+  gap: 0.5rem;
+  margin: 20px;
+
+}

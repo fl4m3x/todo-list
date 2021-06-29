@@ -7,3 +7,5 @@ Nada melhor que um To Do para organizar as suas tarefas, não é mesmo?
 `yarn install`<br>
 taca fogo com o comando: `yarn start` 🔥<br>
 E após estes passos acesse `localhost:3000` 🎉
+<br><br>
+Para enviar uma task, é só escrever ela no campo `Digite sua task` e apertar a tecla `enter` 
